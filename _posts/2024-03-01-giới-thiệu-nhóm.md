@@ -9,7 +9,7 @@ pin: true
 
 Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm của chúng tôi. Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang học tập tại trường Đại học XYZ.
 
-### {{site.data.team.name}}
+### Team1six
 
 <table>
   <tr>

@@ -6,7 +6,7 @@ order: 2
 
 # Team1six
 
-Đây một trang web nhằm giới thiệu về đài đồ án, thành viên của Team1Six và quản lý dự án. Chúng tôi cam kết cung cấp thông tin chi tiết và hấp dẫn về các dự án của chúng tôi.
+Đây một trang web nhằm giới thiệu về đồ án, thành viên của Team1six và quản lý dự án. Chúng tôi cam kết cung cấp thông tin chi tiết và hấp dẫn về các dự án của chúng tôi.
 
 Để hiểu rõ hơn về chúng tôi mời các bạn đọc bài post về chúng tôi:
 
