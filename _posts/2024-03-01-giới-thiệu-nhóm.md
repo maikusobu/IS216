@@ -7,12 +7,9 @@ tags: [team, introduction]
 pin: true
 ---
 
-
-
 Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm của chúng tôi. Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang học tập tại trường Đại học XYZ.
 
-### Team1Six
-
+### {{site.data.team.name}}
 
 <table>
   <tr>
@@ -28,7 +25,5 @@ Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm c
   </tr>
   {% endfor %}
 </table>
-
-
 
 Chúng tôi là một nhóm đồng đội sáng tạo và hướng tới mục tiêu xây dựng những sản phẩm công nghệ tốt nhất. Hy vọng rằng bạn sẽ thích những gì chúng tôi đang làm và ủng hộ chúng tôi trong hành trình phát triển
