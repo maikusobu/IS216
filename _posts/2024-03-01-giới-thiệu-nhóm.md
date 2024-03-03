@@ -3,13 +3,17 @@ layout: post
 title: Giới thiệu nhóm
 date: 2024-03-01 22:10 +0700
 tags: [team, introduction]
-
+author: [loi, nhat]
+excerpt: "Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm của chúng tôi"
 pin: true
+image:
+    path: /assets/img/posts/2024-03-01-giới-thiệu-nhóm/intro.svg
 ---
 
-Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm của chúng tôi. Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang học tập tại trường Đại học XYZ.
 
-### Team1six
+Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang học tập tại trường Đại học Công nghệ thông tin.
+
+## Thành viên
 
 <table>
   <tr>
@@ -26,4 +30,17 @@ Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm c
   {% endfor %}
 </table>
 
-Chúng tôi là một nhóm đồng đội sáng tạo và hướng tới mục tiêu xây dựng những sản phẩm công nghệ tốt nhất. Hy vọng rằng bạn sẽ thích những gì chúng tôi đang làm và ủng hộ chúng tôi trong hành trình phát triển
+## Slogan
+
+***We are the sick ones***
+
+## Mục tiêu
+
+- Tích lũy kinh nghiệm, kiến thức trong quá trình học tập.
+- Tiếp xúc với những công nghệ mới.
+- Have fun.
+
+## Hoạt động
+
+- Seminar về spring framework, spring boot.
+- Đồ án sử dụng swing java với đề tài về một app đặt đồ ăn.
