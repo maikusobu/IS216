@@ -11,3 +11,5 @@ order: 2
 Để hiểu rõ hơn về chúng tôi mời các bạn đọc bài post về chúng tôi:
 
 [Giới thiệu nhóm]({% post_url 2024-03-01-giới-thiệu-nhóm %})
+
+[Giới thiệu thành viên]({% post_url 2024-03-02-giới-thiệu-thành-viên %})

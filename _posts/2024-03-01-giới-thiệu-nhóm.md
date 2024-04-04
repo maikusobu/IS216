@@ -2,14 +2,13 @@
 layout: post
 title: Giới thiệu nhóm
 date: 2024-03-01 22:10 +0700
-tags: [team, introduction]
+tags: [introduction]
 author: [loi, nhat]
 excerpt: "Trong bài viết này, chúng tôi xin giới thiệu đến các bạn nhóm của chúng tôi"
 pin: true
 image:
-    path: /assets/img/posts/2024-03-01-giới-thiệu-nhóm/intro.svg
+  path: /assets/img/posts/2024-03-01-giới-thiệu-nhóm/intro.svg
 ---
-
 
 Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang học tập tại trường Đại học Công nghệ thông tin.
 
@@ -32,7 +31,7 @@ Nhóm chúng tôi gồm những thành viên đam mê công nghệ và đang h�
 
 ## Slogan
 
-***We are the sick ones***
+**_We are the sick ones_**
 
 ## Mục tiêu
 

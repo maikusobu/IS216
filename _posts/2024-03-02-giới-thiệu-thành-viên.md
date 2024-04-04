@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Thành viên
+title: Giới thiệu thành viên
 date: 2024-03-02 10:55 +0700
 excerpt_separator: .
-tags: [member]
+tags: [introduction]
 image:
-    path: /assets/img/posts/2024-03-02-thành-viên/intro-member.svg
+  path: /assets/img/posts/2024-03-02-thành-viên/intro-member.svg
 ---
 
 Tóm lược về những thành viên của nhóm Team1Six.
